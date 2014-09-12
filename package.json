@@ -1,0 +1,26 @@
+{
+  "name": "next-char",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/reergymerej/next-char.git"
+  },
+  "author": "Jeremy Greer <jeremy.greer.atl@gmail.com> (http://jeremygreer.herokuapp.com/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/reergymerej/next-char/issues"
+  },
+  "homepage": "https://github.com/reergymerej/next-char",
+  "devDependencies": {
+    "mocha": "~1.21.4",
+    "willy": "~1.0.0"
+  }
+}
